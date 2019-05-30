@@ -1,0 +1,5 @@
+C:\Users\Mohammad\source\repos\DatabaseContext\Meubeles.Model\bin\Debug\Meubeles.Model.dll
+C:\Users\Mohammad\source\repos\DatabaseContext\Meubeles.Model\bin\Debug\Meubeles.Model.pdb
+C:\Users\Mohammad\source\repos\DatabaseContext\Meubeles.Model\obj\Debug\Meubeles.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\DatabaseContext\Meubeles.Model\obj\Debug\Meubeles.Model.dll
+C:\Users\Mohammad\source\repos\DatabaseContext\Meubeles.Model\obj\Debug\Meubeles.Model.pdb
